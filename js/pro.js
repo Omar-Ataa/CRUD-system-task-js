@@ -8,6 +8,9 @@ var tbody = document.getElementById('tbody');
 var productSearch = document.getElementById('searchInput');
 var addBtn = document.getElementById('addBtn');
 
+
+    clearForm();
+
 if( localStorage.getItem('productData') == null ){
     var productList = [] ;
 }
