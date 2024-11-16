@@ -1,3 +1,12 @@
-/* .demo{
-    background-color: black;
-} */
+
+@media (max-width: 768px) {
+    .containerDiv {
+        
+        width: 100% !important;
+        padding: 3rem auto!important;
+       
+    }
+    table {
+        font-size: 12px;
+    }
+}
