@@ -2,7 +2,7 @@
 @media (max-width: 768px) {
     .containerDiv {
         
-        width: 100% !important;
+        width: 100vw !important;
         padding: 3rem auto!important;
        
     }
